@@ -13,7 +13,7 @@ namespace IssuesWithNonGenericCollections
 
         {
             SimpleBoxUnboxOperation();
-            
+                        
         }
 
         static void SimpleBoxUnboxOperation()
